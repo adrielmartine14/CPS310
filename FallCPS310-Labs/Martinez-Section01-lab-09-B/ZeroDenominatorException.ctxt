@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=ZeroDenominatorException
+comment1.params=reason
+comment1.target=ZeroDenominatorException(java.lang.String)
+numComments=2

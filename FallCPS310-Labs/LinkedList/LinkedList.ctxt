@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LinkedList
+comment1.params=data
+comment1.target=void\ addFront(int)
+comment2.params=
+comment2.target=void\ printList()
+comment3.params=data
+comment3.target=void\ addEnd(int)
+comment4.params=key
+comment4.target=void\ delete(int)
+comment5.params=list
+comment5.target=LinkedList\ reverse(LinkedList)
+numComments=6

@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=CounterInitializationException
+comment1.params=reason
+comment1.target=CounterInitializationException(java.lang.String)
+numComments=2

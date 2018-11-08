@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=SumMajorDiagonal
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=m
+comment2.target=double\ sumMajorDiagonal(double[][])
+numComments=3

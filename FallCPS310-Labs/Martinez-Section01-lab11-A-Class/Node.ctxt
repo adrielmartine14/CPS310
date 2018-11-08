@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Node
+comment0.text=\n\ \ Node\ class\:\ \ Build\ NODE\ class\ which\ has\ two\ data\ fields\:\ \n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ (1)\ node\ value\ called\ "data"\ (int)\ and\ (2)\ "link"\ to\ next\ node\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ a\ constructor\ Node(int\ ndata,\ Node\ nlink)\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ and\ 4\ methods\ to\ get/read\ and\ update/write\ the\ above\ two\ data\ fields\n
+comment1.params=ndata\ nlink
+comment1.target=Node(int,\ Node)
+comment1.text=\n\ Constructor\ for\ objects\ of\ class\ Node\n
+comment2.params=
+comment2.target=int\ getData()
+comment3.params=
+comment3.target=Node\ getLink()
+comment4.params=mydata
+comment4.target=void\ setData(int)
+comment5.params=mylink
+comment5.target=void\ setLink(Node)
+numComments=6

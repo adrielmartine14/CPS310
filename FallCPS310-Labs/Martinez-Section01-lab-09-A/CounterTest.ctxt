@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=CounterTest
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ testConstructor()
+comment2.text=\n\ testConstructor\ -\ test\ if\ the\ appropriate\ exception\ is\ thrown\n
+comment3.params=
+comment3.target=void\ testEquals()
+comment3.text=\n\ testEquals\ -\ test\ the\ equals\ method\n
+comment4.params=
+comment4.target=void\ testToString()
+comment4.text=\n\ testToString\ -\ test\ the\ toString\ method\n
+comment5.params=
+comment5.target=void\ testIncrease()
+comment5.text=\n\ testIncrease\ -\ verify\ that\ the\ increase\ method\ works\n
+comment6.params=
+comment6.target=void\ testDecrease()
+comment6.text=\n\ testDecrease\ -\ verify\ that\ the\ decrease\ method\ works\n
+comment7.params=
+comment7.target=void\ testCombined()
+comment7.text=\n\ testCombined\ -\ test\ combinations\ of\ the\ increase\ and\ decrease\ methods\n
+numComments=8

@@ -1,0 +1,27 @@
+#BlueJ class context
+comment0.target=Counter
+comment1.params=
+comment1.target=Counter()
+comment1.text=\n\ The\ default\ constructor\ for\ objects\ of\ class\ Counter.\ \ Minimum\ is\ 0\ and\ the\ maximum\n\ is\ the\ largest\ possible\ integer.\n
+comment2.params=min\ max
+comment2.target=Counter(int,\ int)
+comment2.text=\n\ The\ alternate\ constructor\ for\ objects\ of\ class\ Counter.\ \ The\ minimum\ and\ maximum\ values\ are\ given\ as\ parameters.\n\ The\ counter\ starts\ at\ the\ minimum\ value.\n\ @param\ min\ The\ minimum\ value\ that\ the\ counter\ can\ have\n\ @param\ max\ The\ maximum\ value\ that\ the\ counter\ can\ have\n
+comment3.params=otherObject
+comment3.target=boolean\ equals(java.lang.Object)
+comment3.text=\n\ Determine\ if\ two\ counters\ are\ in\ the\ same\ state\n\n\ @param\ \ otherObject\ \ \ the\ object\ to\ test\ against\ for\ equality\n\ @return\ \ \ \ \ true\ if\ the\ objects\ are\ in\ the\ same\ state\n
+comment4.params=
+comment4.target=void\ increase()
+comment4.text=\n\ Increases\ the\ counter\ by\ one\n
+comment5.params=
+comment5.target=void\ decrease()
+comment5.text=\n\ Decreases\ the\ counter\ by\ one\n
+comment6.params=
+comment6.target=int\ value()
+comment6.text=\n\ Get\ the\ value\ of\ the\ counter\n\n\ @return\ \ \ \ \ the\ current\ value\ of\ the\ counter\n
+comment7.params=
+comment7.target=boolean\ rolledOver()
+comment7.text=\n\ Accessor\ that\ allows\ the\ client\ to\ determine\ if\ the\ counter\n\ \ \ \ \ \ \ \ \ \ \ \ \ rolled\ over\ on\ the\ last\ count\n\n\ @return\ \ \ \ \ true\ if\ the\ counter\ rolled\ over\n
+comment8.params=
+comment8.target=java.lang.String\ toString()
+comment8.text=\n\ Override\ the\ toString\ method\ to\ provide\ a\ more\ informative\n\ description\ of\ the\ counter\n\n\ @return\ \ \ \ \ a\ descriptive\ string\ about\ the\ object\n
+numComments=9

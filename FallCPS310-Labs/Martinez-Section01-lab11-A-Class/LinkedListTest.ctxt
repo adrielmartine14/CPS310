@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=LinkedListTest
+comment0.text=\n\ \ LINKED\ LIST\ \ \:\ Create\ a\ List\ Randomly\ and\ Automatically\n\ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ \ Put\ PRINT/SUM/MAX\ in\ separate\ methods\n
+comment1.params=
+comment1.target=Node\ ListGenerator()
+comment2.params=entry
+comment2.target=void\ ListPrint(Node)
+comment3.params=entry
+comment3.target=int\ FindListMAX(Node)
+comment4.params=entry
+comment4.target=int\ FindListSUM(Node)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

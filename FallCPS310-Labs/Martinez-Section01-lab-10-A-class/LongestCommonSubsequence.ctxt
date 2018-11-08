@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LongestCommonSubsequence
+comment0.text=\n\ LongestCommonSubsequence\ is\ a\ program\ that\ will\ determine\ the\ longest\ string\ that\ is\ \n\ a\ subsequence\ of\ two\ input\ strings.\ This\ program\ applies\ a\ brute\ force\ solution\ technique.\n\ \n\ @author\ Charles\ Hoot\n\ @version\ 4.0\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=check\ against
+comment2.target=boolean\ isSubsequence(java.lang.String,\ java.lang.String)
+comment2.text=\n\ Determine\ if\ one\ string\ is\ a\ subsequence\ of\ the\ other.\n\n\ @param\ check\ See\ if\ this\ is\ a\ subsequence\ of\ the\ other\ argument.\n\ @param\ other\ The\ string\ to\ check\ against.\ \n\ @return\ \ \ \ \ A\ boolean\ if\ check\ is\ a\ subsequence\ of\ other.\ \n
+numComments=3

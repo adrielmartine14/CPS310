@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=AverageDisplay
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=int\ NumberEnter()
+comment3.params=x
+comment3.target=void\ Display(int)
+numComments=4

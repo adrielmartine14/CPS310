@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BagTest
+comment0.text=\n\n\ @author\ Charles\ Hoot\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\n\ @param\ args\ the\ command\ line\ arguments\n
+comment2.params=reportOn
+comment2.target=void\ report(ArrayBag)
+numComments=3

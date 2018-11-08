@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=lab08B
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=names\ year\ name
+comment2.target=int\ SearchName(java.lang.String[][],\ int,\ java.lang.String)
+comment2.text=\n\ This\ method\ will\ return\ the\ index\ value\ if\ the\ name\ exists\ within\ the\ string\ array,\ if\ not\ it\ will\ return\ -1\n
+comment3.params=names\ year
+comment3.target=void\ NamePrint(java.lang.String[][],\ int)
+comment3.text=\n\ This\ method\ will\ print\ out\ the\ top\ 10\ names\ based\ on\ what\ year\ the\ user\ inputted\n
+comment4.params=names\ year\ name\ first
+comment4.target=void\ SameFirstLetter(java.lang.String[][],\ int,\ java.lang.String,\ char)
+comment4.text=\n\ This\ method\ will\ print\ out\ 10\ names\ that\ share\ the\ same\ first\ letter\ as\ the\ inputted\ name\n
+numComments=5

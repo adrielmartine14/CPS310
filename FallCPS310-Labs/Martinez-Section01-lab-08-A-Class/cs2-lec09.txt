@@ -1,0 +1,18 @@
+
+Lecture 09
+==========
+
++ Review of Objects&Classes:
+MyProgrammingLab # 20734  (chapter 9, 9.3) 
+MyProgrammingLab # 20732  (chapter 9, 9.3)
+Quiz-10 = MyProgrammingLab # 20735 (chapter 9, 9.3) for 10m
+
++ RECURSIONS 1 (chapter 18): slides and 18.1, 18.2, 18.3
+
+AT HOME:
++ HW-10 = MyProgrammingLab # 21231 (chapter 18, 18.4 ) DUE date/time: see the schedule
++ READ chapter 18.1, 18.2, 18.3 & slides/documents in this folder
++ Programming Exercises (no grading but everyone should do): ALL at the end of chapters 18.
+
+
+

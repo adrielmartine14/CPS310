@@ -1,0 +1,42 @@
+
+Lecture 08
+==========
+
++ Review of Methods:
+
+Do Exercise 20654 in Lecture #7 MyProgrammingLab # 20654 (chapter 6, 6.4)
+Quiz-09 = MyProgrammingLab # 20657 (chapter 6, 6.4) for 10m
+
++ OBJECTS & CLASSES:
+Chapters 9, 10
+
+Instance Variable = regular variable (in data field of a class)
+Class Variable = static variable in a class
+
+Immutable object = the one when the contents of an object cannot be 
+                   changed once the object is created
+
+Immutable class = class where it must mark all data fields private and provide no mutator methods 
+                  and no accessor methods that would return a reference to a mutable data field object.
+
+THIS keyword (means the "current" INSTANCE/OBJECT of the given class):
+http://javabeginnerstutorial.com/core-java-tutorial/this-keyword-in-java/
+
+Class Relationships:
+-Association (two separate classes are associated through their objects, one to one, One to many, many to one and many to many: object from class A_car is driven by object from class B_driver)
+-Aggregation (Has-A, a special form of Association which is a unidirectional one way relationship, a class A uses another class B in defining it: class B is used to build class A)
+-Composition (Part-Of, is a restricted form of Aggregation, two are highly dependent on each other, example: Human and heart, heart don’t exist separate to a Human)
+-Inheritance (A-Kind-Of, a class A inherits(gets features) from class B: A extends B)
+
+https://beginnersbook.com/2013/05/association/
+https://www.geeksforgeeks.org/association-composition-aggregation-java/
+
+Wrapper Classes = a class whose object wraps or contains a primitive data type. Why needed ? The primitive data types are not objects; they do not belong to any class; Sometimes, it is required to convert data types into objects
+
+String Class
+
+AT HOME:
++ HW-09 = MyProgrammingLab # 20740 (chapter 9, 9.4 ) DUE date/time: see the schedule
++ READ chapters 9 & 10 & slides/documents in this folder
++ Programming Exercises (no grading but everyone should do): ALL at the end of chapters 9 & 10.
+
